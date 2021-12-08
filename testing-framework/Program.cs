@@ -8,16 +8,25 @@ Console.WriteLine(test.wasRun);
 
 // test 2 - dynamically calling test methods
 var secondTest = new WasRun("TestMethodTwo");
-secondTest.TestMethod();
-Console.WriteLine(test.wasRun);
+secondTest.Run();
+Console.WriteLine(secondTest.wasRun);
 
 public class WasRun
 {
     public bool wasRun;
+    public string testName;
 
     public WasRun(string testMethod)
     {
         wasRun = false;
+        testName = testMethod;
+    }
+
+    public void Run()
+    {
+        var testMethod = Type.GetType("WasRun");
+
+        testMethod.GetMethod(testName).Invoke(this, null);
     }
 
     public void TestMethod()
