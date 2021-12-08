@@ -3,13 +3,8 @@
 // test 1 - testing that we know when a method has run, and when it has failed.
 var test = new WasRun("TestMethod");
 Console.WriteLine(test.wasRun);
-test.TestMethod();
+test.Run();
 Console.WriteLine(test.wasRun);
-
-// test 2 - dynamically calling test methods
-var secondTest = new WasRun("TestMethodTwo");
-secondTest.Run();
-Console.WriteLine(secondTest.wasRun);
 
 public class WasRun
 {
@@ -32,11 +27,6 @@ public class WasRun
     public void TestMethod()
     {
         wasRun = true;
-    }
-
-    public void TestMethodTwo()
-    {
-        wasRun = false;
     }
 }
 
