@@ -1,0 +1,15 @@
+C:\dev\testing-framework\testing-framework\bin\Debug\net6.0\testing-framework.exe
+C:\dev\testing-framework\testing-framework\bin\Debug\net6.0\testing-framework.deps.json
+C:\dev\testing-framework\testing-framework\bin\Debug\net6.0\testing-framework.runtimeconfig.json
+C:\dev\testing-framework\testing-framework\bin\Debug\net6.0\testing-framework.dll
+C:\dev\testing-framework\testing-framework\bin\Debug\net6.0\ref\testing-framework.dll
+C:\dev\testing-framework\testing-framework\bin\Debug\net6.0\testing-framework.pdb
+C:\dev\testing-framework\testing-framework\obj\Debug\net6.0\testing-framework.csproj.AssemblyReference.cache
+C:\dev\testing-framework\testing-framework\obj\Debug\net6.0\testing-framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\testing-framework\testing-framework\obj\Debug\net6.0\testing-framework.AssemblyInfoInputs.cache
+C:\dev\testing-framework\testing-framework\obj\Debug\net6.0\testing-framework.AssemblyInfo.cs
+C:\dev\testing-framework\testing-framework\obj\Debug\net6.0\testing-framework.csproj.CoreCompileInputs.cache
+C:\dev\testing-framework\testing-framework\obj\Debug\net6.0\testing-framework.dll
+C:\dev\testing-framework\testing-framework\obj\Debug\net6.0\ref\testing-framework.dll
+C:\dev\testing-framework\testing-framework\obj\Debug\net6.0\testing-framework.pdb
+C:\dev\testing-framework\testing-framework\obj\Debug\net6.0\testing-framework.genruntimeconfig.cache

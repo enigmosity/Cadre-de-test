@@ -20,7 +20,6 @@ public class WasRun
     public void Run()
     {
         var testMethod = Type.GetType("WasRun");
-
         testMethod.GetMethod(testName).Invoke(this, null);
     }
 

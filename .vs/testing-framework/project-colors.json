@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "43c53e4a-ccd5-4c4e-863d-f92e11a88e83": {
+      "ProjectGuid": "43c53e4a-ccd5-4c4e-863d-f92e11a88e83",
+      "DisplayName": "testing-framework",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
